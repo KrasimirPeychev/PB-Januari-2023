@@ -1,0 +1,5 @@
+function example(input) {
+
+}
+
+example
